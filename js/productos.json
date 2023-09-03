@@ -1,0 +1,182 @@
+[
+    {
+        "id": "placa-01",
+        "titulo": "Placa Estandar",
+        "imagen": "./img/placas/placa estandar.webp",
+        "categoria": {
+            "nombre": "Placas",
+            "id": "placas"
+        },
+        "precio": 4000
+    },
+    {
+        "id": "placa-02",
+        "titulo": "Placa Antihumedad",
+        "imagen": "./img/placas/placa antihumedad.webp",
+        "categoria": {
+            "nombre": "Placas",
+            "id": "placas"
+        },
+        "precio": 4200
+    },
+    {
+        "id": "placa-03",
+        "titulo": "Placa Ignifuga",
+        "imagen": "./img/placas/placa antifuego.webp",
+        "categoria": {
+            "nombre": "Placas",
+            "id": "placas"
+        },
+        "precio": 4200
+    },
+    {
+        "id": "placa-04",
+        "titulo": "Placa Revoque Seco",
+        "imagen": "./img/placas/placa revoque.webp",
+        "categoria": {
+            "nombre": "Placas",
+            "id": "placas"
+        },
+        "precio": 4500
+    },
+    {
+        "id": "placa-05",
+        "titulo": "Placa Acustica",
+        "imagen": "./img/placas/placa acustico.png",
+        "categoria": {
+            "nombre": "Placas",
+            "id": "placas"
+        },
+        "precio": 4500
+    },
+    {
+        "id": "metal-01",
+        "titulo": "Montante",
+        "imagen": "./img/metales/montante.jpg",
+        "categoria": {
+            "nombre": "Metales",
+            "id": "metales"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "metal-02",
+        "titulo": "Solera",
+        "imagen": "./img/metales/solera.jpg",
+        "categoria": {
+            "nombre": "Metales",
+            "id": "metales"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "metal-03",
+        "titulo": "Perfil Omega",
+        "imagen": "./img/metales/perfil omega.png",
+        "categoria": {
+            "nombre": "Metales",
+            "id": "metales"
+        },
+        "precio": 800
+    },
+    {
+        "id": "metal-04",
+        "titulo": "Angulo de Ajuste",
+        "imagen": "./img/metales/angulo ajuste.webp",
+        "categoria": {
+            "nombre": "Metales",
+            "id": "metales"
+        },
+        "precio": 700
+    },
+    {
+        "id": "metal-05",
+        "titulo": "Tornillo T1",
+        "imagen": "./img/metales/tornillo t1.webp",
+        "categoria": {
+            "nombre": "Metales",
+            "id": "metales"
+        },
+        "precio": 200
+    },
+    {
+        "id": "metal-06",
+        "titulo": "Tornillo T2",
+        "imagen": "./img/metales/tornillo t2.webp",
+        "categoria": {
+            "nombre": "Metales",
+            "id": "metales"
+        },
+        "precio": 200
+    },
+    {
+        "id": "metal-07",
+        "titulo": "Tornillo Aletado",
+        "imagen": "./img/metales/tornillo aletado.jpg",
+        "categoria": {
+            "nombre": "Metales",
+            "id": "metales"
+        },
+        "precio": 250
+    },
+    {
+        "id": "metal-08",
+        "titulo": "Tornillo T1 Mecha",
+        "imagen": "./img/metales/tornillo t1 mecha.webp",
+        "categoria": {
+            "nombre": "Metales",
+            "id": "metales"
+        },
+        "precio": 250
+    },
+    {
+        "id": "masilla-01",
+        "titulo": "Masilla Multiuso",
+        "imagen": "./img/revestimiento/Masilla Multiuso.webp",
+        "categoria": {
+            "nombre": "Revestimiento",
+            "id": "revestimiento"
+        },
+        "precio": 8000
+    },
+    {
+        "id": "masilla-02",
+        "titulo": "Masilla Acrilica",
+        "imagen": "./img/revestimiento/masilla acrilica.webp",
+        "categoria": {
+            "nombre": "Revestimiento",
+            "id": "revestimiento"
+        },
+        "precio": 8000
+    },
+    {
+        "id": "masilla-03",
+        "titulo": "Masilla Vinilica",
+        "imagen": "./img/revestimiento/masilla vinilica.webp",
+        "categoria": {
+            "nombre": "Revestimiento",
+            "id": "revestimiento"
+        },
+        "precio": 8500
+    },
+    {
+        "id": "cinta-01",
+        "titulo": "Cinta Microperforada",
+        "imagen": "./img/revestimiento/cinta microperforada.jpg",
+        "categoria": {
+            "nombre": "Revestimiento",
+            "id": "revestimiento"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "cinta-02",
+        "titulo": "Cinta de Papel",
+        "imagen": "./img/revestimiento/cinta de papel.jpg",
+        "categoria": {
+            "nombre": "Revestimiento",
+            "id": "revestimiento"
+        },
+        "precio": 1000
+    }
+]
